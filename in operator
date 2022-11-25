@@ -1,0 +1,7 @@
+#1.Findout if the given element is available in the list or not?
+a = [2,7,4]
+b = [4,7,2]
+if a in b:
+    print('list a is present in list b')
+else:
+    print('list a is not present in list b')
